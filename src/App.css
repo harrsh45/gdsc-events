@@ -1,0 +1,19 @@
+*{
+  padding:0;
+  margin: 0;
+}
+body{
+  margin: 0;padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.card1{
+  background-image: url(images/cover1.png);
+  object-fit: cover;
+  object-position:left;
+}
+.card2{
+  background-image: url(images/cover2.png);
+  object-fit: cover;
+  object-position:center;
+}
